@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mvp-gestao-agil-projetos-produtos
 
 Este diretório contém orientações para a entrega do MVP da Sprint de Gestão Ágil de Projetos e Produtos.
@@ -28,3 +29,4 @@ A nota será composta pelos seguintes itens:
 - Backlog da Sprint, com histórias de usuário detalhadas, estimadas e com critérios de aceitação (1,5 pts)
 - Imagens dos Protótipos de Interface (2,0 pts)
 - Vídeo de Apresentação (2,0 pts)
+e
