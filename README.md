@@ -17,7 +17,7 @@ O aplicativo Memory é voltado para pessoas que perderam alguém muito querido, 
 
 - Figma : https://www.figma.com/file/qByFx3bPgzwahjP0XqY5ef/Memory?type=design&node-id=0%3A1&mode=design&t=rlTOUApYk4rLnQIb-1
 
-- Video de Apresentação: 
+- Video de Apresentação: https://youtu.be/Ndw-mIs_c0E
 
 
 ## Avaliação:
