@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # mvp-gestao-agil-projetos-produtos
 
 Este diretório contém orientações para a entrega do MVP da Sprint de Gestão Ágil de Projetos e Produtos.
